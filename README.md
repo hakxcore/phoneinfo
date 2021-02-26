@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MUKESHKUMAR2001/TrackPhoneNumber/main/media/TrackPhoneNumber.png" width="200" height="200"/>
 </p>
 <p align="center">
-<a href="#"><img title="Anonymous" src="https://img.shields.io/badge/-%20ANONYMOUS-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
+<a href="#"><img title="Anonymous" src="https://img.shields.io/badge/-%20TrackPhoneNumber-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
 </p>
 <p align="center">
   <a href="https://wa.me/+916006511429"><img title="Whatsapp" src="https://simpleicons.org/icons/whatsapp.svg" width="50" height="50"></a>
