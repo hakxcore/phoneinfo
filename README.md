@@ -21,6 +21,13 @@
  # TrackPhoneNumber
 <p align="center">Get the basic information about a phone number</p>
 
+
+## To get this code
+
+```bash
+> git clone https://github.com/MUKESHKUMAR2001/TrackPhoneNumber
+```
+
 ## Python should be installed in the system
 
 <p>For Debian OS</p>
@@ -35,10 +42,9 @@
 > apt install python python3
 ```
 
-## To get this code
+## How to use
 
 ```bash
-> git clone https://github.com/MUKESHKUMAR2001/TrackPhoneNumber
 > cd TrackPhoneNumber
 > python3 TrackPhoneNumber
 ```
