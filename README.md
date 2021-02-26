@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/MUKESHKUMAR2001/followers"><img title="Followers" src="https://img.shields.io/github/followers/MUKESHKUMAR2001?color=blue&style=flat-square"></a>
-<a href="https://github.com/MUKESHKUMAR2001/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MUKESHKUMAR2001/  TrackPhoneNumber?color=red&style=flat-square"></a>
+<a href="https://github.com/MUKESHKUMAR2001/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MUKESHKUMAR2001/TrackPhoneNumber?color=red&style=flat-square"></a>
 <a href="https://github.com/MUKESHKUMAR2001/TrackPhoneNumber/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MUKESHKUMAR2001/TrackPhoneNumber?color=red&style=flat-square"></a>
 <a href="https://github.com/MUKESHKUMAR2001/TrackPhoneNumber/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MUKESHKUMAR2001/TrackPhoneNumber?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
