@@ -46,6 +46,6 @@
 
 ```bash
 > cd TrackPhoneNumber
-> python3 TrackPhoneNumber
+> python3 track_phone.py
 ```
 
