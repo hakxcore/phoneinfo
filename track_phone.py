@@ -5,10 +5,10 @@
 ##   twiter: @mukeshkumarchrk
 ##Instagram: @mukeshkumarcharak
 import phonenumbers
+from phonenumbers import geocoder
 from phonenumbers import timezone
 from phonenumbers import carrier
 number = input("Enter a phone number along with country code: ")
-from phonenumbers import geocoder
 ch_number = phonenumbers.parse(number, "CH")
 print("-------------------------------------")
 print("    Phone-number:", number)
