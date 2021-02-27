@@ -1,3 +1,9 @@
+#Code by Mukesh Kumar
+#!/bin/bash
+##   Author: Mukesh Kumar
+##    Email: mukeshkumarcharak@gmail.com
+##   twiter: @mukeshkumarchrk
+##Instagram: @mukeshkumarcharak
 import phonenumbers
 from phonenumbers import timezone
 from phonenumbers import carrier
