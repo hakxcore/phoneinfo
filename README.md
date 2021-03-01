@@ -34,12 +34,14 @@
 
 ```bash
 > sudo apt install python python3
+> pip3 install phonenumbers
 ```
 
 <p>For Termux</p>
 
 ```bash
 > apt install python python3
+> pip3 install phonenumbers
 ```
 
 ## How to use
