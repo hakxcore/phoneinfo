@@ -31,26 +31,17 @@
 > git clone https://github.com/hakxcore/TrackPhoneNumber
 ```
 
-## Python should be installed in the system
-
-<p>For Debian OS</p>
+## Installation
 
 ```bash
-> sudo apt install python python3
-> pip3 install phonenumbers
+> cd TrackPhoneNumber
+> ./install
 ```
 
-<p>For Termux</p>
-
-```bash
-> apt install python python3
-> pip3 install phonenumbers
-```
 
 ## How to use
 
 ```bash
-> cd TrackPhoneNumber
 > python3 track_phone.py
 ```
 
