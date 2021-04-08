@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 RED="$(printf '\033[31m')"  
 GREEN="$(printf '\033[32m')"  
 ORANGE="$(printf '\033[33m')"  
@@ -18,7 +17,7 @@ WHITEBG="$(printf '\033[47m')"
 BLACKBG="$(printf '\033[40m')"
 RESETBG="$(printf '\e[0m')"
 BLINK="$(printf '\033[5;31m')"
-echo $BLUE"[1] Debian OS(Kali , Ubuntu)"$RESETBG
+echo $BLUE"[1] Debian OS(Kali ,Ubuntu)"$RESETBG
 echo $BLUE"[2] Termux"$RESETBG
 read -p $GREEN"Choose According to you: "$RESETBG opt
 case $opt in
