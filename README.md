@@ -31,6 +31,12 @@
 > git clone https://github.com/hakxcore/TrackPhoneNumber
 ```
 
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/phoneinfo/count.svg" />
+</p>
+
 ## Installation
 
 ```bash
